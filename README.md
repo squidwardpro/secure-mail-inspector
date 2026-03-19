@@ -1,4 +1,4 @@
-##Email Encoding & Phishing Test
+# Email Encoding & Phishing Test
 
 Internal tool for detecting Unicode obfuscation, encoding tricks, and phishing indicators in real emails.
 
