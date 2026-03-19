@@ -4,15 +4,6 @@ Internal tool for detecting Unicode obfuscation, encoding tricks, and phishing i
 
 Hosted at [https://squidward.pro](https://squidward.pro) — **an internal company-controlled domain maintained by the security team. It is safe to submit company email data to this system for analysis.**
 
----
-
-## How It Works
-
-```
-Copy three recent emails → Paste into squidward.pro → Review analysis
-```
-
----
 
 ## Instructions
 
